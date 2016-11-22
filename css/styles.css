@@ -1,0 +1,331 @@
+body{
+	background-color: #61122f;
+	font-size:16px;
+	color:#fff;font-family: 'Oxygen', sans-serif;}
+	
+	#header-nav{  
+		background-color:#f6b319;
+		border-radius:0;
+		border:0;
+	}
+	#logo-img{
+		background:url('../images/restaurant-logo_large.png') no-repeat;
+		width:150px;
+		height:150px;
+		margin:10px 15px 10px 0;
+	}
+	.navbar-brand {padding-top:25px;  /* the restaurant brand name, kosher certified, * symbol all */
+
+	}
+	.navbar-brand h1{/* Restaurant Name*/
+		 font-family: 'Lora', serif;
+		 font-size:1.5em;
+		 color:#557c3e;
+		 margin-top:0;
+		 margin-bottom:0;
+		 text-transform:uppercase;
+		 text-shadow:1px 1px 1px #222;
+		 font-weight: bold;
+		 line-height:0.75;
+		}
+		.navbar-brand a:focus, .navbar-brand a:hover{ /*Restaurant name link focus and hover*/
+			text-decoration:none;
+		}
+		.navbar-brand p{    /*Kosher Certified and * symbol */
+			font-size: 0.7em;
+			color:#000;
+			text-transform: uppercase;
+			margin-top:15px;
+		}
+		.navbar-brand p span{       
+			vertical-align:middle;
+		}
+        
+        #nav-list{margin-top:10px;}   /*navigation list*/
+        #nav-list a{          /*navigation list links */
+        	color:#951C49;
+        	text-align:center;
+        }
+       #nav-list li a:hover{
+       	 background:#E7E7E7;
+       }	
+       #nav-list a span{
+       	font-size:1.8em;
+       	
+
+       }
+       #phone{        /*phone nuber */
+       	margin-top:5px;
+       }
+       #phone a{
+       	padding-bottom:0px;
+       	text-align:right;
+       }
+       #phone div{     /*we deliver*/
+       	color:#557c3e;
+       	text-align:right;
+       	padding-right:15px;
+       }
+
+       .navbar-header button.navbar-toggle,.navbar-header button .icon-bar{/* toggling navbar with icon bars*/
+       	border:1px solid #61122f;
+       }
+       .navbar-header button.navbar-toggle{ /* button position*/
+       	clear:both;
+       	margin-top:-30px;
+       }
+        
+        #menu-tile,#special-tile,#map-tile{
+        	height:250px;
+        	width:100%;
+        	border:2px solid #3F0C1F;
+        	position:relative;
+        	margin-bottom:15px;
+        	overflow:hidden;
+        }
+       #menu-tile:hover,#special-tile:hover,#map-tile:hover{
+       	box-shadow:0px 1px 5px 1px #cccccc;
+       }
+
+       #menu-tile{
+       	background:url('  ../images/menu-tile.jpg') no-repeat;
+       	background-position: center;
+       }
+       #special-tile{
+       	background:url('  ../images/specials-tile.jpg') no-repeat;
+       	background-position: center;
+       }
+       #menu-tile span,#special-tile span,#map-tile span{
+       	position:absolute;
+       	bottom:0;
+       	right:0;
+       	width:100%;
+       	text-align:center;
+       	font-size:1.6em;
+       	color:#fff;
+       	background-color:#000;
+       	opacity:0.8;
+       }
+
+       .menu-item-tile{
+        	margin-bottom: 30px;
+        }
+        .menu-item-tile hr{
+        	width:80%;
+        }
+        .menu-item-tile .menu-item-photo{
+        	position:relative;
+        	
+        	
+        	margin-right:-15px;
+        	margin-left:auto;
+        	margin-bottom:20px;
+        	border:2px solid #3F0C1F;
+        	font-size:1.6em;
+        	max-width:250px;
+        	overflow:hidden;
+        }
+        .menu-item-tile .menu-item-photo div{
+        	position:absolute;
+        	right:0;
+        	bottom:0;
+        	width:80px;
+        	background-color:#557c3e;
+        	text-align:center;
+        	 
+        	        }
+        .menu-item-tile .menu-item-price {
+        	
+        	font-size:1.1em;
+        	text-align:right;
+        	margin-right:-15px;
+        	margin-top:-15px;
+
+        }
+        .menu-item-tile .menu-item-price span{
+        	font-size:0.6em;
+        }
+        .menu-item-tile .menu-item-description {
+        	padding-right: 30px;
+
+        }
+        .menu-item-description  h3.menu-item-title{
+        	margin:0 0 10px;
+        }
+        .menu-item-description .menu-item-details {
+        	font-size:0.9em;
+        	font-style:italic;
+        }
+
+
+
+       @media(min-width:1200px){ /*large screen*/
+         
+        .container .jumbotron{
+        	background:url( '../images/jumbotron_1200.jpg') no-repeat;
+        	height:675px;
+        	
+                  }
+       }
+       @media(min-width:992px) and (max-width:1199px){/*medium screen*/
+         #logo-img {
+         	background:url('  ../images/restaurant-logo_medium.png') no-repeat;
+         	height:100px;
+         	width:100px;
+         	margin:5px 5px 5px 0;
+                   }
+
+          .container .jumbotron{
+           	background:url( '../images/jumbotron_992.jpg') no-repeat;
+           	height:558px;
+           	 
+           	       }    
+       }
+       @media(min-width:768px) and (max-width:991px){/*small screen*/
+           .container .jumbotron{
+           	background:url('  ../images/jumbotron_768.jpg') no-repeat;
+           	height:432px;
+           	
+           }
+       }
+       @media(max-width:767px){ /*extra small screen*/
+
+        .navbar-brand{
+        	padding-top:10px;
+        	height:80px;
+        }
+        .navbar-brand h1{
+        	padding-top:10px;
+        	font-size:5vw; /*1vw=1% of vp w*/
+        }
+        .navbar-brand p{
+        margin-top:12px;
+        font-size:0.6em	;
+        }
+        .navbar-brand p img{
+        	height:20px;
+        }
+
+        #collapsable-nav a {
+        	font-size:1.2em;
+        }
+        #collapsable-nav a span{
+        	font-size:1em;
+        	margin-right:5px;
+        }
+
+        .container .jumbotron{
+        	margin-top:30px;
+        	padding:0px;
+        	
+        }
+        #menu-tile,#special-tile{
+        	width:360px;
+        	margin:0 auto 15px;
+        }
+        .panel-footer section{
+        	margin-bottom:30px;
+        	text-align:center;
+        }
+        .panel-footer section: nth-child(3){
+        	margin-bottom:0;
+        }
+        .panel-footer section hr{
+        	width:50%;
+        }
+        .menu-item-tile .menu-item-photo{
+        	
+        	margin-right:auto;
+        }
+        .menu-item-tile .menu-item-price  {
+        	text-align:center;
+        	
+        }
+        .menu-item-description   {
+        	text-align:center;
+        }
+        }
+
+        .container .jumbotron{
+        	box-shadow:0 0 50px #3F0C1F;
+        	border:2px solid #3F0C1F;
+        }
+        @media(max-width:497px){
+        	#menu-tile,#special-tile{
+        		width:280px;
+
+        	}
+        navbar-brand h1{
+        	font-size:6vw;
+        }
+        .col-xxs-12 {
+        	position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+   float: left;
+   width: 100%;
+        }
+
+        }
+        .panel-footer{
+        	margin-top: 35px;
+        	padding-top:30px;
+        	padding-bottom:35px;
+        	border-top:0;
+        	color:#222;
+        }
+        .panel-footer .row{
+        	margin-bottom:35px;
+        }
+        .panel-footer #hours,.panel-footer #address{
+        	line-height:2;
+        }
+        .panel-footer #hours span ,.panel-footer #Address span{
+           font-size:1.3em;
+        }
+        .panel-footer #Address p{
+        	color:#557c3e;
+        	font-size:0.8em;
+        	line-height:1.6;
+        }
+        .panel-footer #testimonials{
+        	font-style:italic;
+
+        }
+        .panel-footer #testimonials p: nth-child(2){
+        	margin-top:25px;
+        }
+
+        #category-tile{
+        	position:relative;
+        	width:200px;
+        	height:200px;
+        	border: 2px solid #3F0C1F;
+        	margin:0 auto 15px;
+        	overflow:hidden;
+
+        }
+        #category-tile span{
+        	position:absolute;
+        	right:0;
+        	bottom:0;
+        	width:100%;
+        	font-size:1.3em;
+        	color:#000;
+        	background-color: #fff;
+        	text-transform: uppercase;
+        	opacity:0.8;
+        	text-align:center;
+        }
+        #category-tile:hover{
+        	box-shadow: 0px 1px 5px 1px #cccccc;
+        }
+        #menu-categories-title + div{
+        	margin-bottom:30px;
+        }
+
+        
+
+        
+        

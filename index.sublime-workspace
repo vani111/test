@@ -1,0 +1,352 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"background-",
+				"background-position"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"sp",
+				"special-tiles"
+			],
+			[
+				"ho",
+				"hover"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"lin",
+				"link	Tag"
+			],
+			[
+				"b",
+				"border-box"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"sec",
+				"section	Tag"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"tex",
+				"text-rendering"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"Se",
+				"sans-serif"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"fo",
+				"footer	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/test1/proj2/index - Copy.html",
+		"/C/test1/proj2/styles.css",
+		"/C/test1/project1/css/styles.css",
+		"/C/test1/proj2/css/bootstrap.css",
+		"/C/test1/proj2/images/jumbotron_1200.jpg",
+		"/C/Users/vasanta/Downloads/styles.css",
+		"/C/test1/proj2/Index_file.html",
+		"/C/Users/vasanta/Downloads/index.html",
+		"/C/test1/proj2/index_old.html",
+		"/C/test1/proj2/css/bootstrap.min.css",
+		"/C/test/test1HTML/testsub/links1internal.html",
+		"/C/test/test1HTML/testsub/AbsolutePositionexample.html",
+		"/C/test1/proj2/js/bootstrap.js",
+		"/C/test1/proj2/index.html",
+		"/C/test1/proj2/js/bootstrap.min.js",
+		"/C/Users/vasanta/Desktop/bootstrap.js",
+		"/C/test1/proj2/simplefile.html",
+		"/C/Users/vasanta/Desktop/index.html",
+		"/C/test1/proj2/test.html",
+		"/C/test/test1HTML/testsub/floating and relative postion and absolute posting.txt",
+		"/C/test1/project1/first.html",
+		"/C/test1/proj2/js/scripts.js",
+		"/C/test/test1HTML/testsub/Bootindex.html",
+		"/C/test1/project1/index.html",
+		"/C/Users/vasanta/Downloads/fullstack-course4-master.zip",
+		"/C/test/test1HTML/testsub/js/npm.js",
+		"/C/test/test1HTML/testsub/links1external.html",
+		"/C/test/test1HTML/testsub/FloatingExample.html",
+		"/C/test1/proj2/js/jquery-3.1.0.min.js",
+		"/C/test/test1HTML/testsub/links3.html",
+		"/C/test/test1HTML/testsub/image.html",
+		"/C/test/test1HTML/testsub/BootstrapGridSystem.html",
+		"/C/test1/project1/css/styles1.css",
+		"/C/test/test1HTML/testsub/RelativePositionexample.html",
+		"/C/test/test1HTML/testsub/responsivedesign.html",
+		"/C/test/test1HTML/testsub/responsivedesigns.html",
+		"/C/test/test1HTML/testsub/css/styles.css",
+		"/C/test/test1HTML/testsub/index.html",
+		"/C/test/test1HTML/testsub/semnetic-elements2.html",
+		"/C/test/test1HTML/testsub/Inheritanceexmaple.html",
+		"/C/test/test1HTML/testsub/doc-stucturstructure_before.html",
+		"/C/test/test1HTML/testsub/originexample.html",
+		"/C/test/test1HTML/testsub/div-span.html",
+		"/C/test/test1HTML/testsub/pseudoclassselectors.html",
+		"/C/test/test1HTML/testsub/Originexample.html",
+		"/C/test/test1HTML/testsub/DescendantSelector.html",
+		"/C/test/test1HTML/testsub/my-searches.html",
+		"/C/test/test1HTML/testsub/mediaqueriesex.html",
+		"/C/test/test1HTML/testsub/responsivedesign.txt",
+		"/C/test/test1HTML/testsub/visit the client.txt",
+		"/C/test/test1HTML/testsub/js/script.js",
+		"/C/test/test1HTML/testsub/js/jquery-3.1.0.min.js",
+		"/C/test/test1HTML/testsub/Twocloumnlayout.html",
+		"/C/test/test1HTML/testsub/textstyleexample.html",
+		"/C/test/test1HTML/testsub/background.html",
+		"/C/test/test1HTML/testsub/css3selectorsexample.html",
+		"/C/test/test1HTML/testsub/pseudoclassSelectors.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"col-xs-12",
+			"p",
+			"h1",
+			"visible-md",
+			"visible-lg",
+			"map",
+			"margin",
+			".container .jumbotron",
+			"media",
+			"visible-lg",
+			"visible-md",
+			"min-width",
+			"media",
+			"navbar-header",
+			"navbar-headet",
+			"navbar-header\n",
+			"bootstrap.js",
+			"bootstrap",
+			"collapse",
+			":",
+			"md-",
+			"ol",
+			"<l1>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			".",
+			"lg-",
+			"ul"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
